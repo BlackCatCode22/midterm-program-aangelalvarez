@@ -1,0 +1,31 @@
+Midterm Program Output; by Angel Alvarez, Spring 2023, Fresno, CA
+
+
+Hyena habitat:
+
+hy01; Prince Nevarah; 4 years old; birth date April 15, 2019; tan color; female; 70 pounds; from Friguia Park, Tunisia; arrived April 3, 2021
+hy02; Shenzi; 12 years old; birth date November 10, 2011; brown color; male; 150 pounds; from Friguia Park, Tunisia; arrived November 12, 2017
+hy03; Lou; 4 years old; birth date March 15, 2019; black color; male; 120 pounds; from Friguia Park, Tunisia; arrived March 2, 2021
+hy04; Kamari; 8 years old; birth date unknown 3, 2015; black and tan striped color; female; 105 pounds; from Friguia Park, Tunisia; arrived unknown 22, 2019
+
+Lion habitat:
+
+li01; Drooper; 6 years old; birth date March 9, 2017; tan color; female; 300 pounds; from Zanzibar, Tanzania; arrived March 26, 2019
+li02; Mufasa; 12 years old; birth date February 25, 2011; dark tan color; female; 375 pounds; from KopeLion, Tanzania; arrived February 30, 2019
+li03; Drooper; 22 years old; birth date September 12, 2001; golden color; male; 450 pounds; from Zanzibar, Tanzania; arrived September 18, 2011
+li04; Kiara; 4 years old; birth date March 11, 2019; tan and brown color; female; 275 pounds; from KopeLion, Tanzania; arrived March 28, 2022
+
+Tiger habitat:
+
+ti01; Rayas; 2 years old; birth date March 24, 2021; gold and tan stripes color; male; 270 pounds; from Dhaka, Bangladesh; arrived March 9, 2022
+ti02; Cuddles; 4 years old; birth date March 10, 2019; black stripes color; female; 400 pounds; from Dhaka, Bangladesh; arrived March 10, 2020
+ti03; Ryker; 18 years old; birth date October 10, 2005; gold and tan color; male; 300 pounds; from Bardia, Nepal; arrived October 12, 2016
+ti04; Cuddles; 3 years old; birth date April 4, 2020; black stripes color; female; 285 pounds; from Bardia, Nepal; arrived April 11, 2020
+
+Bear habitat:
+
+be01; Snuggles; 7 years old; birth date April 24, 2016; brown color; male; 320 pounds; from Alaska Zoo, Alaska; arrived April 6, 2016
+be02; Winnie the Pooh; 25 years old; birth date March 30, 1998; black color; female; 425 pounds; from Woodland park Zoo, Washington ; arrived March 7, 2021
+be03; Rupert; 4 years old; birth date November 18, 2019; black color; female; 355 pounds; from Woodland park Zoo, Washington ; arrived November 8, 2019
+be04; Bert; 4 years old; birth date April 2, 2019; brown color; male; 405 pounds; from Alaska Zoo, Alaska; arrived April 22, 2021
+

@@ -1,0 +1,4 @@
+Hi professor, I just wanted to let you know that I reformatted the animalNames.txt a little bit in 
+order for my program to run correctly, the only thing I did was delete the empty lines that were in between
+every line, that is because my program scans the name is line by line, so if it scans an empty line then 
+some values for the animals will just be an empty string instead of the actual value :)
